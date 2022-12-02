@@ -169,6 +169,7 @@
         Else
             Direccion = DireccionA
             datosCompletos = True
+                                                
 
         End If
 
