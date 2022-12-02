@@ -12,6 +12,7 @@
                              Alumno.IDAlumno,
                              Alumno.CorreoAlumno,
                              Alumno.DireccionAlumno)
+        
 
         If Alumno.datosAceptados Then
             MsgBox("Alumno " & Alumno.NombreAlumno & " resgistrado")
